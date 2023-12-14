@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img" : "https://drive.google.com/drive/folders/1yGWs1hFkMS0NxPGGyLIX9j5YgKSaMzuB",
+      "name": "json-server",
+      "brand": "typicode",
+      "price": "$60.67 / 6+1LB",
+      "quantity": "0x6 + 1LB",
+      "total": "0",
+      "status": null
+    }
+  ]
+}
